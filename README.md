@@ -1,5 +1,7 @@
 # weather-app
 
+Само приложение: https://pepegaslayer.github.io/weather-app/
+
 Использованные API: 
 https://www.weatherapi.com/
 https://developer.here.com/
